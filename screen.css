@@ -3,4 +3,9 @@
 body {
     background: #fff;
     font-family: helvetica, sans-serif;
+
+}
+
+img {
+    width: 100%;
 }
