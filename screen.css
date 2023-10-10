@@ -40,6 +40,10 @@ img {
 
 h1 {
     background-image: url('images/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    font-size: 3em;
+    padding-left: 50px;
 }
 
 h2 {
