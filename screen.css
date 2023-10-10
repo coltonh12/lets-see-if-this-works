@@ -26,3 +26,11 @@ main {
 img {
     width: 100%;
 }
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
